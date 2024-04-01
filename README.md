@@ -1,66 +1,38 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+### 👉 Descripción
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+El proyecto consiste en el desarrollo de una API REST utilizando el framework de PHP, Laravel, para la gestión de productos. Esta API permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una base de datos de productos, facilitando así la administración eficiente de inventarios y catálogos de productos.
 
-## About Laravel
+### 👉 Aspectos Destacados
++ ### Validación de Datos
+Se aplican reglas de validación para asegurar que los datos proporcionados al crear o actualizar un producto sean los adecuados.
++ ### Eficiencia Operativa
+La API simplifica y automatiza las tareas de gestión de productos, lo que permite a las empresas optimizar sus procesos y mejorar su eficiencia operativa.
++ ### Escalabilidad
+Debido a su diseño modular y escalable, la API puede adaptarse fácilmente a las necesidades cambiantes del negocio y manejar grandes volúmenes de datos sin comprometer el rendimiento.
++ ### Flexibilidad
+La API ofrece flexibilidad para integrarse con una variedad de sistemas y plataformas, lo que permite a las empresas personalizar su entorno de gestión de productos según sus requisitos específicos.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 👉 Instalacion
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+1. *composer update*
+2. *npm install*
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### 👉 Images
 
-## Learning Laravel
+Listar Productos
+<a href="https://postimg.cc/PC3LcNhN" target="_blank"><img src="https://i.postimg.cc/bv8QZ2B0/Listar-productos.png" alt="Listar-productos"/></a><br/><br/>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Agregar Producto
+<a href="https://postimg.cc/rKTtRvQy" target="_blank"><img src="https://i.postimg.cc/RV61ymtt/Agregar-producto.png" alt="Agregar-producto"/></a><br/><br/>
+<a href="https://postimg.cc/RJBqfH1p" target="_blank"><img src="https://i.postimg.cc/gjwhCyxp/producto-agregado-correctamente.png" alt="producto-agregado-correctamente"/></a><br/><br/>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Busqueda de un producto / Actualizacion de un producto
+<a href="https://postimg.cc/gnGn232n" target="_blank"><img src="https://i.postimg.cc/4N9tw5Cb/producto-agregado-correctamente-1.png" alt="producto-agregado-correctamente-1"/></a><br/><br/>
+<a href="https://postimg.cc/R32WS8WB" target="_blank"><img src="https://i.postimg.cc/sXg7cCyv/mostrar-producto.png" alt="mostrar-producto"/></a><br/><br/>
+<a href="https://postimg.cc/r0WKKJ4t" target="_blank"><img src="https://i.postimg.cc/9MgTggF1/producto-actualizado.png" alt="producto-actualizado"/></a><br/><br/>
+<a href="https://postimg.cc/w7F3y31F" target="_blank"><img src="https://i.postimg.cc/x1VmZznr/Bd-producto-actulaizdo.png" alt="Bd-producto-actulaizdo"/></a><br/><br/>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Eliminacion de un producto
+<a href="https://postimg.cc/jn42hSZx" target="_blank"><img src="https://i.postimg.cc/GtZDdBDy/producto-eliminado.png" alt="producto-eliminado"/></a><br/><br/>
+<a href="https://postimg.cc/z3CyNx5s" target="_blank"><img src="https://i.postimg.cc/h4wT9YYt/bd-producto-elimiinado.png" alt="bd-producto-elimiinado"/></a><br/><br/>
 
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
