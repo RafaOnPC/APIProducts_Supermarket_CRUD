@@ -20,11 +20,13 @@ La API ofrece flexibilidad para integrarse con una variedad de sistemas y plataf
 ### 👉 Images
 
 Listar Productos
-<a href="https://postimg.cc/PC3LcNhN" target="_blank"><img src="https://i.postimg.cc/bv8QZ2B0/Listar-productos.png" alt="Listar-productos"/></a><br/><br/>
+![Listar_productos](https://github.com/RafaOnPC/APIProducts_Supermarket_CRUD/assets/128557603/2c91438b-be89-4163-bc9d-882093fed5bf)
+
 
 Agregar Producto
-<a href="https://postimg.cc/rKTtRvQy" target="_blank"><img src="https://i.postimg.cc/RV61ymtt/Agregar-producto.png" alt="Agregar-producto"/></a><br/><br/>
-<a href="https://postimg.cc/RJBqfH1p" target="_blank"><img src="https://i.postimg.cc/gjwhCyxp/producto-agregado-correctamente.png" alt="producto-agregado-correctamente"/></a><br/><br/>
+![Agregar_producto](https://github.com/RafaOnPC/APIProducts_Supermarket_CRUD/assets/128557603/70c4660a-dd2d-47ca-a466-f87b01563178)
+![producto_agregado_correctamente](https://github.com/RafaOnPC/APIProducts_Supermarket_CRUD/assets/128557603/8b387e0d-c6dc-41c9-b446-7ab961e34710)
+
 
 Busqueda de un producto / Actualizacion de un producto
 ![producto_agregado_correctamente_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/a46d7b97-e838-4573-b71a-6d34f119c02f)
