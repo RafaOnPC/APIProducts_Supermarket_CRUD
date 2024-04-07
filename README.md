@@ -27,12 +27,14 @@ Agregar Producto
 <a href="https://postimg.cc/RJBqfH1p" target="_blank"><img src="https://i.postimg.cc/gjwhCyxp/producto-agregado-correctamente.png" alt="producto-agregado-correctamente"/></a><br/><br/>
 
 Busqueda de un producto / Actualizacion de un producto
-<a href="https://postimg.cc/gnGn232n" target="_blank"><img src="https://i.postimg.cc/4N9tw5Cb/producto-agregado-correctamente-1.png" alt="producto-agregado-correctamente-1"/></a><br/><br/>
-<a href="https://postimg.cc/R32WS8WB" target="_blank"><img src="https://i.postimg.cc/sXg7cCyv/mostrar-producto.png" alt="mostrar-producto"/></a><br/><br/>
-<a href="https://postimg.cc/r0WKKJ4t" target="_blank"><img src="https://i.postimg.cc/9MgTggF1/producto-actualizado.png" alt="producto-actualizado"/></a><br/><br/>
-<a href="https://postimg.cc/w7F3y31F" target="_blank"><img src="https://i.postimg.cc/x1VmZznr/Bd-producto-actulaizdo.png" alt="Bd-producto-actulaizdo"/></a><br/><br/>
+![producto_agregado_correctamente_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/a46d7b97-e838-4573-b71a-6d34f119c02f)
+![mostrar_producto](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/06b3c9d6-5180-41da-b11b-5337c30e9deb)
+![producto_actualizado](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/acf122bd-18b2-4c6b-aef0-0903a50f97c9)
+![Bd_producto_actulaizdo](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/1e47e8ef-2b7d-4920-926a-8ce83ed8faf4)
+
 
 Eliminacion de un producto
-<a href="https://postimg.cc/jn42hSZx" target="_blank"><img src="https://i.postimg.cc/GtZDdBDy/producto-eliminado.png" alt="producto-eliminado"/></a><br/><br/>
-<a href="https://postimg.cc/z3CyNx5s" target="_blank"><img src="https://i.postimg.cc/h4wT9YYt/bd-producto-elimiinado.png" alt="bd-producto-elimiinado"/></a><br/><br/>
+![producto_eliminado](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/8cc0edb1-d0fd-4450-bd2b-cbdde8639755)
+![bd_producto_elimiinado](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/7027a352-e5aa-409f-bb8e-4132f67dcbca)
+
 
